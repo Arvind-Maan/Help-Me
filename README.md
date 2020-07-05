@@ -11,11 +11,9 @@ make the *this* point to webhooks
 
 - create an event to trigger, I named my event "ESP". If you do name it something different you must to change the url on line 58 of main.cpp code.
 
-
 then make the *that* point to Slack
 
 - This is fairly straight forward, just connect your slack.
-
 
 After hooking up the IFTTT, get the maker key which can be found in https://ifttt.com/maker_webhooks/settings and fill it in the parameters.
 
